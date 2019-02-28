@@ -422,7 +422,7 @@ class DerivedClassName(modname.BaseClassName):
 - Python supports a form of multiple inheritance as well.  A class definition with multiple base classes looks like this:
 
 - ```python
-class DerivedClassName(Base1, Base2, Base3):
+  class DerivedClassName(Base1, Base2, Base3):
     <statement-1>
     .
     .
